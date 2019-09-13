@@ -2,7 +2,7 @@ const Discord = require('discord.js');
 const bot = new Discord.Client;
 
 const HypixelAPI = require('hypixel-api');
-const HypixelClient = new HypixelAPI('ХУЯ ТЕБЕ');
+const HypixelClient = new HypixelAPI('NONE');
 
 var prefix = '.';
 
